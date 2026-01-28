@@ -90,13 +90,13 @@ Follow these steps to correctly configure and run the project:
    git clone https://github.com/Crisrod0912/PeluqueriaMiRey_V1.git
    ```
     
-3. 📂 **Open the project folder in VS Code**
+2. 📂 **Open the project folder in VS Code**
 
    ```bash
    cd PeluqueriaMiRey_V1
    ```
 
-4. ▶️ **Run the project**
+3. ▶️ **Run the project**
 
   Click on "Run Python File".
 
