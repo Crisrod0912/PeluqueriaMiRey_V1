@@ -75,7 +75,7 @@ Reports are generated using data obtained from **flat files** created by the res
 
 ### 📋 Prerequisites
 
-- 🐍 [Python](https://www.python.org/) **3.10 or higher**
+- 🐍 [Python](https://www.python.org/) (recommended: Python 3.10 or higher)
 - 💻 [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
@@ -84,21 +84,21 @@ Reports are generated using data obtained from **flat files** created by the res
 
 Follow these steps to correctly configure and run the project:
 
-1️⃣ **Clone the repository**
+1. 📥 **Clone the repository**
 
-    ```bash
-    git clone https://github.com/Crisrod0912/PeluqueriaMiRey_V1.git
-    ```
+   ```bash
+   git clone https://github.com/Crisrod0912/PeluqueriaMiRey_V1.git
+   ```
     
-2️⃣ **Open the project folder in VS Code**
+3. 📂 **Open the project folder in VS Code**
 
-    ```bash
-    cd PeluqueriaMiRey_V1
-    ```
+   ```bash
+   cd PeluqueriaMiRey_V1
+   ```
 
-3️⃣ **Run the project**
+5. ▶️ **Run the project**
 
-- Click on "Run Python File".
+Click on "Run Python File".
 
 > [!NOTE]
 > **Project Owner / Developer** 👨🏻‍💻  
