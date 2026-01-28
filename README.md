@@ -98,7 +98,7 @@ Follow these steps to correctly configure and run the project:
 
 5. ▶️ **Run the project**
 
-Click on "Run Python File".
+- Click on "Run Python File".
 
 > [!NOTE]
 > **Project Owner / Developer** 👨🏻‍💻  
