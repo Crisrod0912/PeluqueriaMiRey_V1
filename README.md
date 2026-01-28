@@ -96,7 +96,7 @@ Follow these steps to correctly configure and run the project:
    cd PeluqueriaMiRey_V1
    ```
 
-5. ▶️ **Run the project**
+4. ▶️ **Run the project**
 
   Click on "Run Python File".
 
