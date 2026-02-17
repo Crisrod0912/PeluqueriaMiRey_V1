@@ -62,14 +62,10 @@ Reports are generated using data obtained from **flat files** created by the res
 ### 🚪 Exit
 - Safely exits the system.
 
----
-
 ## 🛠️ Technologies Used
 
 - 🐍 **Programming language:** Python  
 - 🌱 **Version Control:** Git  
-
----
 
 ## ⚙️ Installation
 
@@ -77,8 +73,6 @@ Reports are generated using data obtained from **flat files** created by the res
 
 - 🐍 [Python](https://www.python.org/) (recommended: Python 3.10 or higher)
 - 💻 [Visual Studio Code](https://code.visualstudio.com/)
-
----
 
 ### 🔧 Setup
 
